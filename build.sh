@@ -21,4 +21,4 @@ done
 
 wait
 
-pdfjoin -o TheWellRegulatedMilitia.pdf output/*.pdf
+gs -q -sPAPERSIZE=letter -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -sOutputFile=TheWellRegulatedMilitia.pdf output/*.pdf
