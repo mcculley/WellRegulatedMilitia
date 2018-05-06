@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<militiaMember>
+  <name>Omar Mateen</name>
+  <photo src="../militia_members/OmarMateen/photo.jpg"/>
+  <achievement>
+    <p>Omar Mateen <a href="https://en.wikipedia.org/wiki/Orlando_nightclub_shooting">shot 102 people</a>.</p>
+  </achievement>
+</militiaMember>

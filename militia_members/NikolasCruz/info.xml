@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<militiaMember>
+  <name>Nikolas Cruz</name>
+  <photo src="../militia_members/NikolasCruz/photo.jpg"/>
+  <achievement>
+    <p>Nikolas Cruz <a href="https://en.wikipedia.org/wiki/2014_Isla_Vista_killings">shot 34 people</a> with an AR-15 purchased legally from <a href="https://www.sunrisetacticalsupply.com">Sunrise Tactical Supply</a>.</p>
+  </achievement>
+</militiaMember>

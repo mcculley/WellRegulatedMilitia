@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<militiaMember>
+  <name>Stephen Paddock</name>
+  <photo src="../militia_members/StephenPaddock/photo.jpg"/>
+  <achievement>
+    <p>Stephen Paddock <a href="https://en.wikipedia.org/wiki/2017_Las_Vegas_shooting">shot 481 people</a>.</p>
+  </achievement>
+</militiaMember>

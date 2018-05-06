@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<militiaMember>
+  <name>Adam Lanza</name>
+  <photo src="../militia_members/AdamLanza/photo.jpg"/>
+  <achievement>
+    <p>Adam Lanza <a href="https://en.wikipedia.org/wiki/Sandy_Hook_Elementary_School_shooting">shot 29 people</a>.</p>
+  </achievement>
+</militiaMember>

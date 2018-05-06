@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<militiaMember>
+  <name>Seung-Hui Cho</name>
+  <photo src="../militia_members/SeungHuiCho/photo.jpg"/>
+  <achievement>
+    <p>Seung-Hui Cho <a href="https://en.wikipedia.org/wiki/Virginia_Tech_shooting">shot 49 people</a>.</p>
+  </achievement>
+</militiaMember>
