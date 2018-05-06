@@ -77,7 +77,7 @@
                   </div>
                 </div>
                 <div id="noMoreRegulationNeeded">
-                  <p>The United States does not need more regulation of guns. It does not need regulation requiring a mental health assessment of a gun purchaser. It has a Well Regulated Militia. <a href="https://en.wikipedia.org/wiki/Mass_shootings_in_the_United_States">Learn more about <xsl:value-of select="militiaMember/name"/> and other members of the Well Regulated Militia</a> of the United States of America.</p>
+                  <p>The United States does not need more regulation of guns. It does not need regulation requiring a mental health assessment of a gun purchaser. It has a Well Regulated Militia. <a href="https://en.wikipedia.org/wiki/Mass_shootings_in_the_United_States">Learn more about <xsl:value-of select="militiaMember/name"/> and other members</a> of the <a href="https://mcculley.github.io/WellRegulatedMilitia/">Well Regulated Militia</a> of the United States of America.</p>
                 </div>
                 <div id="defendersOfFreedom">
                   <p>Learn more from these organizations about how you can help preserve the current system of the United States of America.</p>
