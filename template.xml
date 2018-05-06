@@ -6,6 +6,7 @@
     <xsl:text/>
     <html>
       <head>
+        <script src="../../analytics.js"></script>
         <title>
           <xsl:value-of select="militiaMember/name"/> of the Well Regulated Miliita
         </title>
