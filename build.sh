@@ -20,3 +20,5 @@ do
 done
 
 wait
+
+pdfjoin -o TheWellRegulatedMilitia.pdf output/*.pdf
