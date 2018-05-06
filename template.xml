@@ -10,12 +10,6 @@
           <xsl:value-of select="militiaMember/name"/> of the Well Regulated Miliita
         </title>
         <style>
-            body {
-            /*
-                margin: 25px 25px 25px 25px;
-            */
-            }
-
             header {
                 text-align: center;
             }
