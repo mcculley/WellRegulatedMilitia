@@ -15,7 +15,7 @@ wait
 for militiaMember in militia_members/*
 do
   militiaMember=$(basename $militiaMember)
-  wkhtmltopdf --dpi 380 --page-size letter militia_members/$militiaMember/$militiaMember.html output/$militiaMember.pdf &
+  wkhtmltopdf --print-media-type --dpi 380 --page-size letter militia_members/$militiaMember/$militiaMember.html output/$militiaMember.pdf &
   wkhtmltoimage militia_members/$militiaMember/$militiaMember.html output/$militiaMember.png &
 done
 
